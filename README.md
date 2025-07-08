@@ -38,8 +38,10 @@ Result will be printed to your terminal:
 
 ❌ You lose! otherwise
 
-🖼️ Screenshots
-👇 Game Start Prompt
-<img src="ss/screenshot1.png" alt="Popup to enter color" style="width: 400px;"/>
-🐢 The Great Turtle Race!
-<img src="ss/screenshot2.png" alt="Turtle race in progress" style="width: 400px;"/>
+### 🖼️ Screenshots
+
+| Description | Screenshot |
+|-------------|------------|
+| 👇 **Game Start Prompt** <br> Popup where the player is asked to bet on the turtle color. | <img src="ss/screenshot1.png" alt="Popup to enter color" width="300"/> |
+| 🐢 **The Great Turtle Race!** <br> Six colorful turtles compete in a race. | <img src="ss/screenshot2.png" alt="Turtle race in progress" width="300"/> |
+
