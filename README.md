@@ -42,4 +42,4 @@ Result will be printed to your terminal:
 👇 Game Start Prompt
 <img src="ss/screenshot1.png" alt="Popup to enter color" style="width: 400px;"/>
 🐢 The Great Turtle Race!
-<img src="ss/screenshot2.png" alt="Turtle race in progress" style="width: 600px;"/>
+<img src="ss/screenshot2.png" alt="Turtle race in progress" style="width: 400px;"/>
